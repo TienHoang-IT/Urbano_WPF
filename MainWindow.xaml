@@ -4,9 +4,31 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Urbano_WPF"
+        xmlns:data="clr-namespace:Urbano_WPF.Data"
+        xmlns:control="clr-namespace:Urbano_WPF.Views.WindowControl"
+        DataContext="{x:Static data:StaticData.MainViewModel}"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Urbano" 
+        Height="900" 
+        Width="1600"
+        WindowStartupLocation="CenterScreen"
+        FontSize="13"
+        Background="{StaticResource BackgroundBrush}">
     <Grid>
-        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Menu>
+            <MenuItem Header="Chức năng">
+                <MenuItem Header="Nhân Viên" Command="{Binding EmployeeCommand}"/>
+                <MenuItem Header="Danh mục" Command="{Binding CategoryCommand}"/>
+                <MenuItem Header="Hệ thống" Command="{Binding SystemCommand}"/>
+                <MenuItem Header="Nhật ký" Command="{Binding DiaryCommand}"/>
+                <MenuItem Header="Cổng thanh toán" Command="{Binding PaymentCommand}"/>
+            </MenuItem>
+        </Menu>
     </Grid>
+
 </Window>

@@ -1,14 +1,78 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\WorkSpace\\Source\\Urbano_WPF\\",
+  "WorkspaceRootPath": "G:\\Source\\Urbano_WPF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|e:\\workspace\\source\\urbano_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|g:\\source\\urbano_wpf\\views\\employee\\employeewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|solutionrelative:views\\employee\\employeewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|g:\\source\\urbano_wpf\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|g:\\source\\urbano_wpf\\viewmodels\\employee\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|solutionrelative:viewmodels\\employee\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|g:\\source\\urbano_wpf\\views\\employee\\employeewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|solutionrelative:views\\employee\\employeewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|g:\\source\\urbano_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|e:\\workspace\\source\\urbano_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|g:\\source\\urbano_wpf\\views\\windowcontrol\\windowcontrolusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|solutionrelative:views\\windowcontrol\\windowcontrolusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|g:\\source\\urbano_wpf\\views\\windowcontrol\\windowcontrolusercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|solutionrelative:views\\windowcontrol\\windowcontrolusercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|g:\\source\\urbano_wpf\\viewmodels\\windowcontrol\\windowcontrolviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|solutionrelative:viewmodels\\windowcontrol\\windowcontrolviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|g:\\source\\urbano_wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Source\\Urbano_WPF\\obj\\Debug\\net10.0-windows\\Views\\WindowControl\\WindowControlUserControl.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net10.0-windows\\Views\\WindowControl\\WindowControlUserControl.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|g:\\source\\urbano_wpf\\data\\staticdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|solutionrelative:data\\staticdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|g:\\source\\urbano_wpf\\resources\\themes\\light.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|solutionrelative:resources\\themes\\light.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|g:\\source\\urbano_wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|g:\\source\\urbano_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|g:\\source\\urbano_wpf\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|solutionrelative:properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|g:\\source\\urbano_wpf\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|solutionrelative:properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|g:\\source\\urbano_wpf\\urbano_wpf.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|solutionrelative:urbano_wpf.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|g:\\source\\urbano_wpf\\urbano_wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|solutionrelative:urbano_wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,35 +82,221 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "E:\\WorkSpace\\Source\\Urbano_WPF\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "E:\\WorkSpace\\Source\\Urbano_WPF\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
+              "Title": "EmployeeWindow.xaml",
+              "DocumentMoniker": "G:\\Source\\Urbano_WPF\\Views\\Employee\\EmployeeWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\Employee\\EmployeeWindow.xaml",
+              "ToolTip": "G:\\Source\\Urbano_WPF\\Views\\Employee\\EmployeeWindow.xaml",
+              "RelativeToolTip": "Views\\Employee\\EmployeeWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-11T15:24:21.653Z",
+              "WhenOpened": "2026-05-12T08:46:08.743Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WindowControlUserControl.xaml",
+              "DocumentMoniker": "G:\\Source\\Urbano_WPF\\Views\\WindowControl\\WindowControlUserControl.xaml",
+              "RelativeDocumentMoniker": "Views\\WindowControl\\WindowControlUserControl.xaml",
+              "ToolTip": "G:\\Source\\Urbano_WPF\\Views\\WindowControl\\WindowControlUserControl.xaml",
+              "RelativeToolTip": "Views\\WindowControl\\WindowControlUserControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-12T07:48:58.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Light.xaml",
+              "DocumentMoniker": "G:\\Source\\Urbano_WPF\\Resources\\Themes\\Light.xaml",
+              "RelativeDocumentMoniker": "Resources\\Themes\\Light.xaml",
+              "ToolTip": "G:\\Source\\Urbano_WPF\\Resources\\Themes\\Light.xaml",
+              "RelativeToolTip": "Resources\\Themes\\Light.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-12T07:35:53.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "G:\\Source\\Urbano_WPF\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "G:\\Source\\Urbano_WPF\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-05-12T07:29:06.298Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "G:\\Source\\Urbano_WPF\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
+              "ToolTip": "G:\\Source\\Urbano_WPF\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T03:30:14.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeViewModel.cs",
+              "DocumentMoniker": "G:\\Source\\Urbano_WPF\\ViewModels\\Employee\\EmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Employee\\EmployeeViewModel.cs",
+              "ToolTip": "G:\\Source\\Urbano_WPF\\ViewModels\\Employee\\EmployeeViewModel.cs",
+              "RelativeToolTip": "ViewModels\\Employee\\EmployeeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T08:49:28.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "G:\\Source\\Urbano_WPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "G:\\Source\\Urbano_WPF\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-11T15:24:21.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WindowControlUserControl.xaml.cs",
+              "DocumentMoniker": "G:\\Source\\Urbano_WPF\\Views\\WindowControl\\WindowControlUserControl.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\WindowControl\\WindowControlUserControl.xaml.cs",
+              "ToolTip": "G:\\Source\\Urbano_WPF\\Views\\WindowControl\\WindowControlUserControl.xaml.cs",
+              "RelativeToolTip": "Views\\WindowControl\\WindowControlUserControl.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T07:58:35.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeWindow.xaml.cs",
+              "DocumentMoniker": "G:\\Source\\Urbano_WPF\\Views\\Employee\\EmployeeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\Employee\\EmployeeWindow.xaml.cs",
+              "ToolTip": "G:\\Source\\Urbano_WPF\\Views\\Employee\\EmployeeWindow.xaml.cs",
+              "RelativeToolTip": "Views\\Employee\\EmployeeWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T08:46:37.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WindowControlViewModel.cs",
+              "DocumentMoniker": "G:\\Source\\Urbano_WPF\\ViewModels\\WindowControl\\WindowControlViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\WindowControl\\WindowControlViewModel.cs",
+              "ToolTip": "G:\\Source\\Urbano_WPF\\ViewModels\\WindowControl\\WindowControlViewModel.cs",
+              "RelativeToolTip": "ViewModels\\WindowControl\\WindowControlViewModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T07:54:53.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "G:\\Source\\Urbano_WPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "G:\\Source\\Urbano_WPF\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T04:04:15.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WindowControlUserControl.g.cs",
+              "DocumentMoniker": "G:\\Source\\Urbano_WPF\\obj\\Debug\\net10.0-windows\\Views\\WindowControl\\WindowControlUserControl.g.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net10.0-windows\\Views\\WindowControl\\WindowControlUserControl.g.cs",
+              "ToolTip": "G:\\Source\\Urbano_WPF\\obj\\Debug\\net10.0-windows\\Views\\WindowControl\\WindowControlUserControl.g.cs",
+              "RelativeToolTip": "obj\\Debug\\net10.0-windows\\Views\\WindowControl\\WindowControlUserControl.g.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADgvyEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T07:58:52.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "G:\\Source\\Urbano_WPF\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Properties\\Resources.Designer.cs",
+              "ToolTip": "G:\\Source\\Urbano_WPF\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T07:29:05.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StaticData.cs",
+              "DocumentMoniker": "G:\\Source\\Urbano_WPF\\Data\\StaticData.cs",
+              "RelativeDocumentMoniker": "Data\\StaticData.cs",
+              "ToolTip": "G:\\Source\\Urbano_WPF\\Data\\StaticData.cs",
+              "RelativeToolTip": "Data\\StaticData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T03:26:20.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Urbano_WPF",
+              "DocumentMoniker": "G:\\Source\\Urbano_WPF\\Urbano_WPF.csproj",
+              "RelativeDocumentMoniker": "Urbano_WPF.csproj",
+              "ToolTip": "G:\\Source\\Urbano_WPF\\Urbano_WPF.csproj",
+              "RelativeToolTip": "Urbano_WPF.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-12T07:28:42.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "E:\\WorkSpace\\Source\\Urbano_WPF\\MainWindow.xaml.cs",
+              "DocumentMoniker": "G:\\Source\\Urbano_WPF\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "E:\\WorkSpace\\Source\\Urbano_WPF\\MainWindow.xaml.cs",
+              "ToolTip": "G:\\Source\\Urbano_WPF\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-11T15:24:21.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "G:\\Source\\Urbano_WPF\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "G:\\Source\\Urbano_WPF\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-12T03:35:47.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Urbano_WPF.csproj",
+              "DocumentMoniker": "G:\\Source\\Urbano_WPF\\Urbano_WPF.csproj",
+              "RelativeDocumentMoniker": "Urbano_WPF.csproj",
+              "ToolTip": "G:\\Source\\Urbano_WPF\\Urbano_WPF.csproj",
+              "RelativeToolTip": "Urbano_WPF.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-12T03:33:12.476Z"
             }
           ]
         }

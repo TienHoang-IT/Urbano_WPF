@@ -8,6 +8,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Urbano_WPF.Data;
 
 namespace Urbano_WPF
 {
@@ -19,6 +20,7 @@ namespace Urbano_WPF
         public MainWindow()
         {
             InitializeComponent();
+            StaticData.MainWindow = this;
         }
     }
 }
