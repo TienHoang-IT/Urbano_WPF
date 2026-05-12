@@ -2,6 +2,7 @@
 using System.Data;
 using System.Windows;
 using Urbano_WPF.Data;
+using Urbano_WPF.Helper;
 
 namespace Urbano_WPF
 {
@@ -19,7 +20,15 @@ namespace Urbano_WPF
 
         private void InitViewModel()
         {
-            StaticData.MainViewModel = new ViewModels.MainViewModel();
+            try
+            {
+                StaticData.MainViewModel = new ViewModels.MainViewModel();
+                Logger.WriteLine("Khởi tạo toàn bộ ViewModel");
+            }
+            catch(Exception ex)
+            {
+                Logger.WriteLine("Lỗi khởi tạo ViewModel: " + ex.Message);
+            }
         }
     }
 
