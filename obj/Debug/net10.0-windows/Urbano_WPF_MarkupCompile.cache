@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET10_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NET10_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
 G:\Source\Urbano_WPF\App.xaml
-4952621621
+5216467969
 
-12-1755670198
+15116031046
 217967050929
-MainWindow.xaml;Resources\Themes\Light.xaml;Views\Employee\EmployeeWindow.xaml;Views\WindowControl\WindowControlUserControl.xaml;
+MainWindow.xaml;Resources\Themes\Light.xaml;Views\Employee\EmployeeWindow.xaml;Views\MessageBoxCustom\MessageBoxCustom.xaml;Views\WindowControl\WindowControlUserControl.xaml;
 
 False
 

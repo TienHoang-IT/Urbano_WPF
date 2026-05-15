@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Urbano_WPF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5433cd31ed15c1882297dbeb83e34dcf834b9d41")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab4659da58f046bbdc3e0a23870414abf7702ae6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Urbano_WPF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Urbano_WPF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -10,71 +10,108 @@
         WindowState="Normal"
         ResizeMode="NoResize"
         Topmost="True"
-        Title="MessageBoxCustom" 
-        Height="250" 
-        Width="500">
-    <Grid>
-        <Grid.RowDefinitions>
-            <RowDefinition Height="Auto"/>
-            <RowDefinition Height="Auto"/>
-            <RowDefinition Height="*"/>
-            <RowDefinition Height="Auto"/>
-        </Grid.RowDefinitions>
+        KeyDown="Window_KeyDown"
+        Title="MessageBoxCustom"
+        Background="Transparent"
+        AllowsTransparency="True"
+        Height="200" 
+        Width="450">
+    <Border
+        CornerRadius="8"
+        Background="White">
+        <Grid
+            Background="Transparent">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
 
-        <Border
-            Height="45">
-            <TextBlock Name="txtTitle"
+            <Border
+                Background="Transparent"
+                Height="45"
+                MouseDown="Border_MouseDown">
+                <TextBlock Name="txtTitle"
                        Text="Title"
                        HorizontalAlignment="Center"
                        VerticalAlignment="Center"
                        FontSize="20"/>
-        </Border>
+            </Border>
 
-        <Separator Grid.Row="1"/>
+            <Separator Grid.Row="1"/>
 
-        <Grid
+            <TextBlock
+            x:Name="txtMessage"
+            Grid.Row="2"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center"
+            FontSize="18"
+            Text="Message"/>
+
+            <Grid
             Grid.Row="3"
             Height="45">
-            <Grid.ColumnDefinitions>
-                <ColumnDefinition Width="*"/>
-                <ColumnDefinition Width="*"/>
-            </Grid.ColumnDefinitions>
 
-            <Button
-                Grid.Column="0"
-                Width="120"
-                HorizontalAlignment="Right"
-                Margin="30 0"
-                Content="Yes"/>
+                <StackPanel
+                HorizontalAlignment="Center"
+                VerticalAlignment="Top"
+                Orientation="Horizontal">
+                    <Button
+                    x:Name="btnYes"
+                    Grid.Column="0"
+                    Width="100"
+                    HorizontalAlignment="Right"
+                    Margin="30 0"
+                    Content="Yes"
+                    Click="btnYes_Click"
+                    Style="{StaticResource ButtonPrimary}"/>
 
-            <Button
-                Grid.Column="1"
-                Width="120"
-                HorizontalAlignment="Left"
-                Margin="30 0"
-                Content="No"/>
-            
-            <Button
-                Grid.Column="0"
-                Width="120"
-                HorizontalAlignment="Right"
-                Margin="30 0"
-                Content="Ok"/>
+                    <Button
+                    x:Name="btnNo"
+                    Grid.Column="1"
+                    Width="100"
+                    HorizontalAlignment="Left"
+                    Margin="30 0"
+                    Content="No"
+                    Click="btnNo_Click"/>
+                </StackPanel>
 
-            <Button
-                Grid.Column="1"
-                Width="120"
-                HorizontalAlignment="Left"
-                Margin="30 0"
-                Content="Cancel"/>
+                <StackPanel
+                HorizontalAlignment="Center"
+                VerticalAlignment="Top"
+                Orientation="Horizontal">
 
-            <Button
+                    <Button
+                    x:Name="btnOk"
+                    Grid.Column="0"
+                    Width="100"
+                    HorizontalAlignment="Right"
+                    Margin="30 0"
+                    Content="Ok"
+                    Click="btnOk_Click"
+                    Style="{StaticResource ButtonPrimary}"/>
+
+                    <Button
+                    x:Name="btnCancel"
+                    Grid.Column="1"
+                    Width="100"
+                    HorizontalAlignment="Left"
+                    Margin="30 0"
+                    Content="Cancel"
+                    Click="btnCancel_Click"/>
+
+                </StackPanel>
+
+                <!--<Button
                 Grid.Column="0"
                 Grid.ColumnSpan="2"
                 Width="120"
-                HorizontalAlignment="Center"/>
+                HorizontalAlignment="Center"
+                Content="Ok"/>-->
+
+            </Grid>
 
         </Grid>
-
-    </Grid>
+    </Border>
 </Window>

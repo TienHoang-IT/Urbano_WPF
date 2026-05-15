@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "G:\\Source\\Urbano_WPF\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|g:\\source\\urbano_wpf\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|g:\\source\\urbano_wpf\\views\\messageboxcustom\\messageboxcustom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|solutionrelative:views\\messageboxcustom\\messageboxcustom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|g:\\source\\urbano_wpf\\views\\messageboxcustom\\messageboxcustom.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|solutionrelative:views\\messageboxcustom\\messageboxcustom.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|g:\\source\\urbano_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|g:\\source\\urbano_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|g:\\source\\urbano_wpf\\enums\\messagedialogbuttontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|solutionrelative:enums\\messagedialogbuttontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|g:\\source\\urbano_wpf\\enums\\messagetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FC4781-44F5-5A82-71C3-BFC65234201B}|Urbano_WPF.csproj|solutionrelative:enums\\messagetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Source\\Urbano_WPF\\obj\\Debug\\net10.0-windows\\Views\\WindowControl\\WindowControlUserControl.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,11 +42,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "G:\\Source\\Urbano_WPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "G:\\Source\\Urbano_WPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T07:15:26.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageBoxCustom.xaml.cs",
+              "DocumentMoniker": "G:\\Source\\Urbano_WPF\\Views\\MessageBoxCustom\\MessageBoxCustom.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MessageBoxCustom\\MessageBoxCustom.xaml.cs",
+              "ToolTip": "G:\\Source\\Urbano_WPF\\Views\\MessageBoxCustom\\MessageBoxCustom.xaml.cs",
+              "RelativeToolTip": "Views\\MessageBoxCustom\\MessageBoxCustom.xaml.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAewDAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T07:03:08.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MessageType.cs",
+              "DocumentMoniker": "G:\\Source\\Urbano_WPF\\Enums\\MessageType.cs",
+              "RelativeDocumentMoniker": "Enums\\MessageType.cs",
+              "ToolTip": "G:\\Source\\Urbano_WPF\\Enums\\MessageType.cs",
+              "RelativeToolTip": "Enums\\MessageType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T07:02:57.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MessageBoxCustom.xaml",
               "DocumentMoniker": "G:\\Source\\Urbano_WPF\\Views\\MessageBoxCustom\\MessageBoxCustom.xaml",
               "RelativeDocumentMoniker": "Views\\MessageBoxCustom\\MessageBoxCustom.xaml",
@@ -33,12 +96,46 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "G:\\Source\\Urbano_WPF\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
+              "ToolTip": "G:\\Source\\Urbano_WPF\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T07:15:45.044Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "G:\\Source\\Urbano_WPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "G:\\Source\\Urbano_WPF\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-15T07:15:28.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MessageDialogButtonType.cs",
+              "DocumentMoniker": "G:\\Source\\Urbano_WPF\\Enums\\MessageDialogButtonType.cs",
+              "RelativeDocumentMoniker": "Enums\\MessageDialogButtonType.cs",
+              "ToolTip": "G:\\Source\\Urbano_WPF\\Enums\\MessageDialogButtonType.cs",
+              "RelativeToolTip": "Enums\\MessageDialogButtonType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T07:01:22.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "WindowControlUserControl.g.cs",
               "DocumentMoniker": "G:\\Source\\Urbano_WPF\\obj\\Debug\\net10.0-windows\\Views\\WindowControl\\WindowControlUserControl.g.cs",
               "RelativeDocumentMoniker": "obj\\Debug\\net10.0-windows\\Views\\WindowControl\\WindowControlUserControl.g.cs",
@@ -46,8 +143,7 @@
               "RelativeToolTip": "obj\\Debug\\net10.0-windows\\Views\\WindowControl\\WindowControlUserControl.g.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAADgvyEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T07:58:52.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T07:58:52.346Z"
             }
           ]
         }

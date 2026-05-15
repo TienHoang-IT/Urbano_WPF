@@ -86,3 +86,5 @@ E:\WorkSpace\Source\Urbano_WPF\obj\Debug\net10.0-windows\refint\Urbano_WPF.dll
 E:\WorkSpace\Source\Urbano_WPF\obj\Debug\net10.0-windows\Urbano_WPF.pdb
 E:\WorkSpace\Source\Urbano_WPF\obj\Debug\net10.0-windows\Urbano_WPF.genruntimeconfig.cache
 E:\WorkSpace\Source\Urbano_WPF\obj\Debug\net10.0-windows\ref\Urbano_WPF.dll
+G:\Source\Urbano_WPF\obj\Debug\net10.0-windows\Views\MessageBoxCustom\MessageBoxCustom.g.cs
+G:\Source\Urbano_WPF\obj\Debug\net10.0-windows\Views\MessageBoxCustom\MessageBoxCustom.baml
