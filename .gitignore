@@ -3,3 +3,10 @@ bin/
 obj/
 *.user
 *.suo
+/Urbano_WPF.csproj
+/obj/Debug/net10.0-windows/Urbano_WPF.AssemblyInfo.cs
+/obj/Debug/net10.0-windows/Urbano_WPF.AssemblyInfoInputs.cache
+/obj/Debug/net10.0-windows/Urbano_WPF.assets.cache
+/obj/Debug/net10.0-windows/Urbano_WPF.csproj.AssemblyReference.cache
+/obj/Debug/net10.0-windows/Urbano_WPF.GeneratedMSBuildEditorConfig.editorconfig
+/obj/Debug/net10.0-windows/Urbano_WPF_MarkupCompile.i.cache
