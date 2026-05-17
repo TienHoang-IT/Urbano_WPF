@@ -14,6 +14,8 @@ namespace Urbano_WPF
         protected override void OnStartup(StartupEventArgs e)
         {
             base.OnStartup(e);
+
+            StartupUri = new Uri("Views/Login/LoginWindow.xaml", UriKind.Relative);
         }
     }
 

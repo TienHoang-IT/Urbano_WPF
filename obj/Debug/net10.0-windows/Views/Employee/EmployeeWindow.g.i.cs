@@ -54,7 +54,7 @@ namespace Urbano_WPF.Views.Employee {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Urbano_WPF;V1.0.0.0;component/views/employee/employeewindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Urbano_WPF;component/views/employee/employeewindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\Views\Employee\EmployeeWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
