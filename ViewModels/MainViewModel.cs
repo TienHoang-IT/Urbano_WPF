@@ -23,11 +23,7 @@ namespace Urbano_WPF.ViewModels
         private void Employee()
         {
             var win = new EmployeeWindow();
-            var vm = new EmployeeViewModel();
-
-            win.DataContext = vm;
             win.Owner = StaticData.MainWindow;
-
             win.Show();
         }
         [RelayCommand]

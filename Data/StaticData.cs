@@ -8,9 +8,7 @@ namespace Urbano_WPF.Data
     public static class StaticData
     {
         private static MainWindow mainWindow;
-        private static MainViewModel mainViewModel;
 
         public static MainWindow MainWindow { get { return mainWindow; } set { mainWindow = value; } }
-        public static MainViewModel MainViewModel { get { return mainViewModel; } set { mainViewModel = value; } }
     }
 }
