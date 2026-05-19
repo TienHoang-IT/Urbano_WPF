@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:Urbano_WPF"
         xmlns:data="clr-namespace:Urbano_WPF.Data"
         xmlns:control="clr-namespace:Urbano_WPF.Views.WindowControl"
-        DataContext="{x:Static data:StaticData.MainViewModel}"
+        xmlns:vm="clr-namespace:Urbano_WPF.ViewModels"
         mc:Ignorable="d"
         Title="Urbano" 
         Height="900" 
@@ -14,6 +14,11 @@
         WindowStartupLocation="CenterScreen"
         FontSize="13"
         Background="{StaticResource BackgroundBrush}">
+
+    <Window.DataContext>
+        <vm:MainViewModel/>
+    </Window.DataContext>
+    
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>

@@ -15,20 +15,7 @@ namespace Urbano_WPF
         {
             base.OnStartup(e);
 
-            InitViewModel();
-        }
-
-        private void InitViewModel()
-        {
-            try
-            {
-                StaticData.MainViewModel = new ViewModels.MainViewModel();
-                Logger.WriteLine("Khởi tạo toàn bộ ViewModel");
-            }
-            catch(Exception ex)
-            {
-                Logger.WriteLine("Lỗi khởi tạo ViewModel: " + ex.Message);
-            }
+            StartupUri = new Uri("Views/Login/LoginWindow.xaml", UriKind.Relative);
         }
     }
 

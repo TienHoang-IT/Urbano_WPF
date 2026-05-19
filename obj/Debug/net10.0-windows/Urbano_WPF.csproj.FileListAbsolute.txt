@@ -185,3 +185,5 @@ G:\Source\Urbano_WPF\bin\Debug\net10.0-windows\Pomelo.EntityFrameworkCore.MySql.
 G:\Source\Urbano_WPF\bin\Debug\net10.0-windows\INIFileParser.dll
 G:\Source\Urbano_WPF\bin\Debug\net10.0-windows\config.ini
 G:\Source\Urbano_WPF\obj\Debug\net10.0-windows\Urbano_WPF_Content.g.cs
+G:\Source\Urbano_WPF\obj\Debug\net10.0-windows\Views\Login\LoginWindow.g.cs
+G:\Source\Urbano_WPF\obj\Debug\net10.0-windows\Views\Login\LoginWindow.baml

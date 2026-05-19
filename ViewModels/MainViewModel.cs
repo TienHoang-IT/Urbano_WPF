@@ -8,6 +8,7 @@ using System.Text;
 using Urbano_WPF.Data;
 using Urbano_WPF.ViewModels.Employee;
 using Urbano_WPF.Views.Employee;
+using Urbano_WPF.Views.MessageBoxCustom;
 
 namespace Urbano_WPF.ViewModels
 {
@@ -23,17 +24,13 @@ namespace Urbano_WPF.ViewModels
         private void Employee()
         {
             var win = new EmployeeWindow();
-            var vm = new EmployeeViewModel();
-
-            win.DataContext = vm;
             win.Owner = StaticData.MainWindow;
-
             win.Show();
         }
         [RelayCommand]
         private void Category()
         {
-            Growl.Info("Category Button");
+            MessageBoxCustom.Show("Danh mục", Enums.MessageType.Info, Enums.MessageDialogButtonType.OkCancel);
         }
         [RelayCommand]
         private void System()

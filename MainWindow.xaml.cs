@@ -20,7 +20,6 @@ namespace Urbano_WPF
         public MainWindow()
         {
             InitializeComponent();
-            StaticData.MainWindow = this;
         }
     }
 }

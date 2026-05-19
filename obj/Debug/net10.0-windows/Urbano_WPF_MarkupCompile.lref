@@ -2,6 +2,7 @@
 FG:\Source\Urbano_WPF\App.xaml;;
 FG:\Source\Urbano_WPF\MainWindow.xaml;;
 FG:\Source\Urbano_WPF\Views\Employee\EmployeeWindow.xaml;;
+FG:\Source\Urbano_WPF\Views\Login\LoginWindow.xaml;;
 FG:\Source\Urbano_WPF\Views\MessageBoxCustom\MessageBoxCustom.xaml;;
 FG:\Source\Urbano_WPF\Views\WindowControl\WindowControlUserControl.xaml;;
 

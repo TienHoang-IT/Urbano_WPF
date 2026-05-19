@@ -4,11 +4,17 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Urbano_WPF.Views.Employee"
+        xmlns:vm="clr-namespace:Urbano_WPF.ViewModels.Employee"
         mc:Ignorable="d"
         Title="Quản lý nhân viên" 
         Height="450" 
         Width="800"
         WindowStartupLocation="CenterOwner">
+
+    <Window.DataContext>
+        <vm:EmployeeViewModel/>
+    </Window.DataContext>
+    
     <Grid>
         
     </Grid>
