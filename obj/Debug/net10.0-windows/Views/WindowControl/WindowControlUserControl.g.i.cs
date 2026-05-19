@@ -54,7 +54,7 @@ namespace Urbano_WPF.Views.WindowControl {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Urbano_WPF;V1.0.0.0;component/views/windowcontrol/windowcontrolusercontrol.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Urbano_WPF;component/views/windowcontrol/windowcontrolusercontrol.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\Views\WindowControl\WindowControlUserControl.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -101,7 +101,7 @@ namespace Urbano_WPF.Views.MessageBoxCustom {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Urbano_WPF;V1.0.0.0;component/views/messageboxcustom/messageboxcustom.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Urbano_WPF;component/views/messageboxcustom/messageboxcustom.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\Views\MessageBoxCustom\MessageBoxCustom.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
